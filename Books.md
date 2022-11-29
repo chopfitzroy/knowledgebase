@@ -3,4 +3,5 @@
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Writing An Interpreter In Go](https://thorstenball.com/books/)
 - [Writing A Compiler In Go](https://thorstenball.com/books/)
+- [sed & awk](https://www.oreilly.com/library/view/sed-awk/1565922255/)
 - 
