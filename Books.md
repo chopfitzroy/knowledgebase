@@ -1,0 +1,6 @@
+- [For the Love of Go](https://bitfieldconsulting.com/books/love)
+- [Know Go: Generics](https://bitfieldconsulting.com/books/generics)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Writing An Interpreter In Go](https://thorstenball.com/books/)
+- [Writing A Compiler In Go](https://thorstenball.com/books/)
+- 
